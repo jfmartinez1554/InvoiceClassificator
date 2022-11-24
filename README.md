@@ -15,8 +15,8 @@ This repo is the final iteration of a Machine Learning Document Classification M
 
 - Update the global variables from the Utils notebook.
 - Update the preprocessing dictionaries and utilitary functions in the Utils notebook depending on your language/preferences.
-- Using the Classification Models notebook export all the models needed for the final algorithm and compare the performance of different models.
-- Use the exported models or the Final Algorithm notebook to test the classification of documents!
+- Using the Classification Models notebook export all the models needed for the final algorithm (TFIDF Vectorizer, SVM and NN) and compare the performance of different models.
+- Using the previously exported models you can use the Usage Example or the Final Algorithm notebook to test the classification of your own documents!
 
 
 
